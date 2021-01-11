@@ -1,2 +1,2 @@
 # menu
-artistweb
+artistweb DSP
